@@ -59,3 +59,11 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+![foto](https://github.com/Moviezal/lab11_ci_ci4/blob/5c4e1fa731e1bc30e6bf7e4e2ffd4ae1588ac772/result%20photo/Screenshot%202026-04-02%20082534.png)
+
+![foto](https://github.com/Moviezal/lab11_ci_ci4/blob/5c4e1fa731e1bc30e6bf7e4e2ffd4ae1588ac772/result%20photo/Screenshot%202026-04-02%20082554.png)
+
+![foto](https://github.com/Moviezal/lab11_ci_ci4/blob/5c4e1fa731e1bc30e6bf7e4e2ffd4ae1588ac772/result%20photo/Screenshot%202026-04-02%20082611.png)
+
+![foto](https://github.com/Moviezal/lab11_ci_ci4/blob/5c4e1fa731e1bc30e6bf7e4e2ffd4ae1588ac772/result%20photo/Screenshot%202026-04-02%20082623.png)
